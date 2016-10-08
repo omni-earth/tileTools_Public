@@ -8,6 +8,7 @@ mbtile vector to raster processing
 ##goal (2): burn attribute values from vector mbtile to raster mbtile:
 
 labels (imagery): greyscale_labels_roi3.mbtiles
+
 vector: vector_corrections.mbtiles
 
 
